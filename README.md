@@ -1,2 +1,0 @@
-# Random-Generator
-browser display
